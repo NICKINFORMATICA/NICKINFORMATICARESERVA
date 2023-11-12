@@ -1,4 +1,4 @@
-# Hey! Thanks for visiting 👋😊👍
+# Hey! Thanks for visiting 
 
 
 I'm a friendly and ambitious guy who is passionate about using technology to make a positive impact on society. As a computer systems developer, I have a keen interest in exploring the endless possibilities that technology has to offer.
