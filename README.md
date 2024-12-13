@@ -9,6 +9,11 @@ WEB FORMS
 DATABASE:
 ORACLE 10G VISTA - 
 POSTGRESQL
+PL/SQL DEVELOPER
+
+🎓 Developer 
+🐱‍👤 Information Security Enthusiast 
+🧙 
 
 ## Coding Activity 👩🏽‍💻
  <div>
