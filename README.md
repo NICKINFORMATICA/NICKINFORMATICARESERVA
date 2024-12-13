@@ -1,5 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=25&pause=500&color=0711FF&vCenter=true&width=600&height=70&lines=👋OLÁ+COMUNIDADE+DA+COMPUTAÇÃO!;👋BEM+VINDO+A+NICK+INFORMÁTICA!;💻TÉCNICO,EDITOR DE VÍDEO,PROGRAMADOR DE SISTEMA...](https://git.io/typing-svg)
-</div>
+# 👋OLÁ+COMUNIDADE+DA+COMPUTAÇÃO!;
+👋BEM+VINDO+A+NICK+INFORMÁTICA!;
+💻TÉCNICO,EDITOR DE VÍDEO,PROGRAMADOR DE SISTEMA...
 
 LANGUAGES :
 
