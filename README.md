@@ -1,4 +1,5 @@
-# Hey! Thanks for visiting 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=0711FF&vCenter=true&width=600&height=70&lines=👋OLÁ+DEV!;💻BEM+VINDO+A+NICK+INFORMÁTICA!;💻PROGRAMAÇÃO...;💻EDIÇÃO+DE+VÍDEO+E+AUDIO)](https://git.io/typing-svg)
+</div>
 
 LANGUAGES :
 
