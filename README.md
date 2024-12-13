@@ -8,12 +8,14 @@ WEB FORMS
 
 DATABASE:
 ORACLE 10G VISTA - 
-POSTGRESQL
+POSTGRESQL -
 PL/SQL DEVELOPER
 
-🎓 Developer 
-🐱‍👤 Information Security Enthusiast 
-🧙 
+GAS STATIONS AUTOMATOR -
+IT SERVICES MEDICINE -
+VIDEO / AUDIO EDITOR -
+
+🐱‍👤 IT Security Enthusiast 🧙 
 
 ## Coding Activity 👩🏽‍💻
  <div>
