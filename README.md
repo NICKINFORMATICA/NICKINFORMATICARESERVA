@@ -15,7 +15,7 @@ GAS STATIONS AUTOMATOR -
 IT SERVICES MEDICINE -
 VIDEO / AUDIO EDITOR -
 
-🐱‍👤 IT Security Enthusiast 🧙 
+ IT Security Enthusiast 🧙 
 
 ## Coding Activity 👩🏽‍💻
  <div>
