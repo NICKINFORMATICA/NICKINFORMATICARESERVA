@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=25&pause=500&color=0711FF&vCenter=true&width=600&height=70&lines=👋OLÁ+COMUNIDADE+DA+COMPUTAÇÃO!;💻BEM+VINDO+A+NICK+INFORMÁTICA!;💻TÉCNICO,EDITOR,PROGRAMADOR...;💻CYBER-SECURITY+ENTUSIASTA)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=25&pause=500&color=0711FF&vCenter=true&width=600&height=70&lines=👋OLÁ+COMUNIDADE+DA+COMPUTAÇÃO!;👋BEM+VINDO+A+NICK+INFORMÁTICA!;💻TÉCNICO,EDITOR,PROGRAMADOR...;💻CYBER-SECURITY+ENTUSIASTA)](https://git.io/typing-svg)
 </div>
 
 LANGUAGES :
