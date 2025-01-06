@@ -20,7 +20,7 @@ VIDEO / AUDIO EDITOR
 
 ## Coding Activity 👩🏽‍💻
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://github.com/NICKINFORMATICARESERVA/cobra-do-grid/blob/main/cobra%20da%20grade%20de%20contribui%C3%A7%C3%A3o.svg](https://github.com/NICKINFORMATICARESERVA/alg.c/blob/main/profile-night-rainbow.svg))
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/NICKINFORMATICARESERVA/alg.c/blob/main/profile-night-rainbow.svg)
 
  <div>
   <a href="https://github.com/NICKINFORMATICARESERVA">
