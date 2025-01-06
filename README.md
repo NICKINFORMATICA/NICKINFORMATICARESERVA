@@ -18,7 +18,7 @@ VIDEO / AUDIO EDITOR
 
  IT Security Enthusiast 🧙 
 
-## Coding Activity 👩🏽‍💻
+## Coding Activity 
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/NICKINFORMATICARESERVA/alg.c/blob/main/profile-night-rainbow.svg)
 
